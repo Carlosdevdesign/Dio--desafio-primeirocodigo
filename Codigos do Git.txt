@@ -1,0 +1,12 @@
+Git init
+git status
+Git clone "link" (clonar Repositorios)
+git add
+Git add . (atualiza o git de todos os arquivos que tem na pasta)
+git commit (comitar o arquivo - preparar para envio)
+git commit -m (comentario)
+git push origin main (upar os arquivos no github)
+
+cd mudar a pasta/diretório
+ls listar a pasta
+control-L limpar a tela
